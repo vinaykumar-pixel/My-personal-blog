@@ -86,7 +86,7 @@
 
   <footer>
     <p>© 2025 Vinay Kumar | Built with ❤️</p>
-    <marquee>Thanks for visiting
+    <marquee>Thanks for visiting</marquee>
   </footer>
 </body>
 </html>
