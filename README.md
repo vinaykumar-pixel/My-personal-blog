@@ -9,7 +9,6 @@
     header { background: #0077b6; color: white; padding: 20px; text-align: center; }
     header h1 { margin: 0; font-size: 2.2em; }
     header p { margin: 5px 0 0; font-size: 1.1em; }
-    <img src="vinay.jpg" alt="Vinay Kumar" class="profile-pic">
       nav { background: #023e8a; padding: 10px; text-align: center; }
     nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
     section { padding: 40px 20px; max-width: 900px; margin: auto; }
