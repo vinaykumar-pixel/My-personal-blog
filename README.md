@@ -51,6 +51,7 @@
     <div class="card">
       <h2>Work Experience</h2>
       <ul>
+        <li><strong>flipkat</strong> - Vendor associate ( Sep 2025- Dec 2025)</li>
         <li><strong>Wipro</strong> – Quality Analyst & Production Agent (Jun 2022 – Mar 2025)</li>
         <li><strong>Reliance</strong> – Service Engineer Manager (Sep 2020 – Mar 2022)</li>
         <li><strong>CRUX Service Management</strong> – Associate (2017 – 2019)</li>
