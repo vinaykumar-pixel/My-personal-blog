@@ -80,7 +80,7 @@
       <h2>Contact</h2>
       <p><strong>Email:</strong> <a href="mailto:neelipallyvinaykumar@gmail.com">neelipallyvinaykumar@gmail.com</a></p>
       <p><strong>Phone:</strong> +91-7386500865 | +91-9177129661</p>
-      <p><strong>Location:</strong> <href="https://www.google.com/maps/place/hyderabad/data=!4m2!3m1!1s0x3bcb99daeaebd2c7:0xae93b78392bafbc2?sa=X&ved=1t:155783&ictx=111"Hyderabad, Telangana, India</p>
+      <p><strong>Location:</strong> <a href="https://www.google.com/maps/place/hyderabad/data=!4m2!3m1!1s0x3bcb99daeaebd2c7:0xae93b78392bafbc2?sa=X&ved=1t:155783&ictx=111"> Hyderabad, Telangana, India</a></p>
     </div>
   </section>
 
